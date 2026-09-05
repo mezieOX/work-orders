@@ -41,14 +41,14 @@ pnpm lint
 
 ## Features
 
-| Story | Where |
-| --- | --- |
-| List work orders | `/` — title, priority, status, updatedAt |
-| Create | `/work-orders/new` → `POST /api/work-orders` |
-| Detail | `/work-orders/[id]` |
-| Edit | `/work-orders/[id]/edit` → `PUT /api/work-orders/[id]` |
-| Delete | Detail page → `DELETE /api/work-orders/[id]` |
-| Filter | Status filter on the list (`?status=Open`) |
+| Story            | Where                                                  |
+| ---------------- | ------------------------------------------------------ |
+| List work orders | `/` — title, priority, status, updatedAt               |
+| Create           | `/work-orders/new` → `POST /api/work-orders`           |
+| Detail           | `/work-orders/[id]`                                    |
+| Edit             | `/work-orders/[id]/edit` → `PUT /api/work-orders/[id]` |
+| Delete           | Detail page → `DELETE /api/work-orders/[id]`           |
+| Filter           | Status filter on the list (`?status=Open`)             |
 
 ### Filter vs search (scope choice)
 
@@ -101,7 +101,6 @@ Playwright E2E was skipped to stay within the timebox.
 
 ## Demo / application videos
 
-Add your shareable links here before submitting:
-
-- Demo video (≤ 5 min): _link_
+- live url: https://work-orders-rho.vercel.app/
+- Demo video (≤ 5 min): https://drive.google.com/file/d/1X3PzmNvVW_HonRrZIneUU_ZWJ1SVpKl7/view?usp=drive_link
 - Self-presentation (≤ 1 min): _link_
