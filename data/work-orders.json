@@ -1,0 +1,34 @@
+[
+  {
+    "id": "8b581c05-d71a-4677-80fa-84b6da6cb8be",
+    "title": "Diagnose intermittent network drop",
+    "description": "Office switches lose uplink every ~40 minutes. Capture logs from edge switch, reseat SFP, verify PoE budget.",
+    "priority": "High",
+    "status": "In Progress",
+    "updatedAt": "2026-09-05T03:41:11.018Z"
+  },
+  {
+    "id": "8932bd94-d06c-49af-9ca4-13cb5c259cd0",
+    "title": "Calibrate conveyor photo-eye",
+    "description": "Line 2 false-triggers at high speed. Realign sensor, clean lens, update PLC debounce to 12ms.",
+    "priority": "High",
+    "status": "Open",
+    "updatedAt": "2026-09-04T20:41:11.018Z"
+  },
+  {
+    "id": "1febdcb0-aa22-4abe-bb90-1fcc30b143d6",
+    "title": "Annual fire extinguisher check",
+    "description": "Walk all floors, verify tags and pressure gauges, log any units needing recharge.",
+    "priority": "Low",
+    "status": "Done",
+    "updatedAt": "2026-09-03T08:41:11.018Z"
+  },
+  {
+    "id": "c49ff15f-62de-4d35-96e4-2fe890406dc8",
+    "title": "Install LED shop lights — aisle B",
+    "description": "Mount six 4ft fixtures, wire to existing junction box, leave old fluorescents for disposal.",
+    "priority": "Medium",
+    "status": "In Progress",
+    "updatedAt": "2026-09-04T06:41:11.018Z"
+  }
+]
